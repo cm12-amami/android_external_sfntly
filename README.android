@@ -1,2 +1,5 @@
 Current version:
 svn checkout http://sfntly.googlecode.com/svn/trunk/cpp/src@134 cpp/src
+
+# Local changes
+Fixed uninitialized variable. See bug 116114182 for details.
